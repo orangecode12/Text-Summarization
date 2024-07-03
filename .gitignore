@@ -1,0 +1,8 @@
+/.DS_Store
+/.venv
+/__pycache__
+/chain_with_prompts.py
+/notebook.ipynb
+/openai_test.py
+/openai_test_copy.py
+/test_chain.py

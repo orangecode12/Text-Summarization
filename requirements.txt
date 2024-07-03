@@ -1,0 +1,7 @@
+pandas
+openai
+tiktoken
+transformers
+langchain
+langchain-community
+langchain-openai
